@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import DetailView from './detail.View';
+import DetailView from './detailView';
 import CardComponent from './cardComponent';
 import HeaderComponent from './headerComponent';
 import MenuComponent from './menuComponent';
